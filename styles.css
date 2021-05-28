@@ -1,0 +1,79 @@
+
+#title{
+  background-color: #ff4c68;
+    margin: 0;
+
+}
+.set{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5 rem;
+  line-height: 1.5;
+text-align: center;
+}
+.container-fluid{
+  padding: 1% 2% 2% 6%;
+
+}
+.textt{
+  color: #000000;
+  font-weight: bold;
+  font-size: 1.2rem;
+  font-family: monospace;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+.pa{
+  margin: 22% 2% 1% 5%;
+}
+.imag{
+  width: 50%;
+  text-align: center;
+  transform: rotate(25deg);
+}
+#features{
+  margin-top: 6%;
+
+}
+.cen{
+  text-align: center;
+}
+.hp{
+font-family: 'Ubuntu', sans-serif;
+margin-top: 2%;
+}
+#testimonials{
+  background-color: #ff4c68;
+}
+.mar{
+  padding: 8%;
+}
+#imagdog{
+  width: 16%;
+}
+#press{
+  margin: 5% 0 0 0;
+  text-align: center;
+}
+#pricing{
+  margin: 5% 0 0 0;
+  text-align: center;
+}
+.dark{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 900;
+}
+.backk{
+  background-color: #f2f2eb;
+}
+#cta{
+  background-color: #ff4c68;
+}
+.bol{
+  margin: 5% 0 0 0;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: monospace;
+}
